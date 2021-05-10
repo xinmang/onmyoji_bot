@@ -1,0 +1,5 @@
+numpy
+pywin32
+opencv_python
+Pillow
+opencv_contrib_python==3.4.2.16
